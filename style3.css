@@ -1,0 +1,9 @@
+body {
+  background-image: url(imgs/31dark_street.jpg);
+  background-size: cover;
+}
+button {
+  width: 400px;
+  height: 100px;
+
+}

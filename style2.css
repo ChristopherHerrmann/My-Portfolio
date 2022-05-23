@@ -1,0 +1,12 @@
+body {
+  background-image: url("imgs/bg2.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  font-size: 1110px;
+}
+h2 {
+  font-size: 175px;
+  background-image: url();
+}
