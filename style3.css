@@ -1,6 +1,7 @@
 body {
   background-image: url(imgs/31dark_street.jpg);
   background-size: cover;
+    background-repeat: no-repeat;
 }
 button {
   width: 400px;
