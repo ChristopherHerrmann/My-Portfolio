@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
 
-#ani {
+#animation {
   top: 150%;
+  animation-name: move-up;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
 }
 
 @-webkit-keyframes moveup {
@@ -22,4 +25,7 @@ h1 {
 h2 {
   font-family: 'Koulen', cursive;
   padding: 20px;
+}
+img {
+  border-radius: 40px
 }
